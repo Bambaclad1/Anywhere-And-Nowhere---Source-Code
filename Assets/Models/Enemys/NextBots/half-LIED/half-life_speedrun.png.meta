@@ -1,0 +1,6903 @@
+fileFormatVersion: 2
+guid: 7cef803e5c6254a42894113df385945e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: half-life_speedrun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7826
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba28129e235cbb642aa4bc92c16f7b46
+      internalID: -148788477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 7826
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974fb347fe5568c4a95ce62d3ea70c9d
+      internalID: -1571602533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 7826
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b95eafbed43c7c4a8677d6337d9459a
+      internalID: 1651128384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 7826
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f339c93a06ecbf64d9d277e90cab9c7c
+      internalID: -1139567262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 7826
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49e7b2853de527498627ca120df0ee9
+      internalID: 128637336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 7826
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24afc656abfb65745a2428c375a52ec5
+      internalID: 241332182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 7826
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cff22b2abc8985408a4aa2ef0ced7b0
+      internalID: -2007988495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7644
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94f9ea9ddfe9cb4c9c27f7717419bb5
+      internalID: -174272094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 7644
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ed3e01cf7f49e4a9317ad66d29a410
+      internalID: 1213205055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 7644
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342c86ce928fafc418da865e72ef7330
+      internalID: -497874388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 7644
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9d171627777514082bb00194137381
+      internalID: -403732296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 7644
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2ffc8306d795649819ac9379aee942
+      internalID: 293829961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 7644
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603c7991673e88e40a28bc7b37d2cc11
+      internalID: 927961195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_13
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 7644
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6e3f519d95f9643b6e310f0ee57389
+      internalID: -2083493096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7462
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4426f35bb66c5eb46a1ce20cfc68dc76
+      internalID: 1746284158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 7462
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49013cc6e3383ad41bd3b810eb121e46
+      internalID: -1362094887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 7462
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d3bb283d260fb4bbc3f5b4b7552f07
+      internalID: -655839369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 7462
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9abc0e953078f34ebbd649ebc043b18
+      internalID: 337254282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 7462
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483f8743613b1db47a53a28a974ad8ed
+      internalID: 1751940352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_19
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 7462
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6602e352c2bb240974416c34b5634b
+      internalID: 2075127609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_20
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 7462
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c81e47728699f145ac1711495bc43b6
+      internalID: -1651492541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7280
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2464ecd568f652746bd26590b60fdd1a
+      internalID: -505560135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 7280
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba18e3303618de4c8ed6f352fd9249b
+      internalID: -1835978450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 7280
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa71411d51b21d45889aed83b2b5748
+      internalID: 93007408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_24
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 7280
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa322e3ff36c1148837e574dd63cf76
+      internalID: 603988159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_25
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 7280
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c62b2187ca99c44e833a221bcd233a2
+      internalID: 1150313175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_26
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 7280
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8a8c2804729434ab0b2815111c0b90
+      internalID: 779309962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_27
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 7280
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b0cd3ac7dc896419f8f9d014753826
+      internalID: 124524296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7098
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28200b8fb6bc58d44a6525f32d15ef10
+      internalID: -426015721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 7098
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d004b10bcadb37c49ab349b8394e37c1
+      internalID: 76446555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 7098
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810aad02bc8e501419fe886f651fe4fc
+      internalID: -596560936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_31
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 7098
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4838089e49ad7f4688a199cdbf5352c
+      internalID: -1722470498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_32
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 7098
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a77847b0232f842a0059724fdc18b6
+      internalID: 400983870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_33
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 7098
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d8e8ed3a7eeab44b642c72d4168d03
+      internalID: -225372559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_34
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 7098
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3a9157dfa1da0498dcd3576301c74d
+      internalID: 1367274565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6916
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3cc6221d6a7c84f842f66f78145fef
+      internalID: -404702550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 6916
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2486e6f2d8f4a3645b358a2e3fe5dc3f
+      internalID: -280333387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 6916
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7456697252c6104ca006c4172c53529
+      internalID: 158732549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_38
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 6916
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8205d71d356df649835e713b426ca09
+      internalID: 491031685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_39
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 6916
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbd19abf4be53c4787b5dd98ad38672
+      internalID: -1142018557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_40
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 6916
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5304bc284375d478563caf6d8f2ddf
+      internalID: 1583218465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_41
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 6916
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc53d561f371194792d8672db3b9de4
+      internalID: 936051860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6734
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda62f6e789771e4a8a84dc55323a8e6
+      internalID: 924278446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 6734
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7356db88aef9944895d8e3b4cee040
+      internalID: 148379785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_44
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 6734
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24a79b04056a084493670e855ad74f1
+      internalID: 970811495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_45
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 6734
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2ed6652fc190f46909a7be818ac634
+      internalID: -906961921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_46
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 6734
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf169ba10f73a254daefaffc49802adc
+      internalID: 140644674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_47
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 6734
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f412fa0d701c3be49b63c294a7c9d91e
+      internalID: -1158747053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_48
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 6734
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a04b77bf69111f4eb0730bf33be227a
+      internalID: -3071318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6552
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a2201b06a39d64ca3d0ad8223835fe
+      internalID: -509898311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 6552
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c137fea42dbb40b4eaff543ba04116ac
+      internalID: -332667806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_51
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 6552
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093d41bf99b354a4a9c23aaf43daeb48
+      internalID: 325659095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_52
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 6552
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fac147844419b14eb35a851992d398e
+      internalID: -1522146549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_53
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 6552
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b36f21753984894cbb8ca51c918ba92
+      internalID: -1683631247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_54
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 6552
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1346671e023583b41bc0baf1fbe81984
+      internalID: -2031518505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_55
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 6552
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c07d144e470f3747952d9c6ec5b776b
+      internalID: 1458073926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6370
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9358146ec213ce449c52a99e136cb92
+      internalID: 1069203602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_57
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 6370
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535e35fc491b35a409a465ff3768a100
+      internalID: 1402085454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 6370
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434a37b73a76858449e0e8b034cf7255
+      internalID: -1200778816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 6370
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c366cdfe8ca449245a7cd97a695ad3b7
+      internalID: 259578123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_60
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 6370
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9387c16c84494f34ba5be0984b2ebbab
+      internalID: 332591438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_61
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 6370
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd97ea25e4676b4e9c5c55a23556447
+      internalID: -475459017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_62
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 6370
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04d477687773f74b876653543339228
+      internalID: -395168217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6188
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0304e419bec0c4f9fb7d758ca50561
+      internalID: 755591815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_64
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 6188
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0474d42a3d8e74583c722791f290ff
+      internalID: -737836275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 6188
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8546bca60b85674bb11642c28415656
+      internalID: -964818099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_66
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 6188
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8eca3fadb3bf234a91c1e78e3bde968
+      internalID: -1655948625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_67
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 6188
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fa3570e27b6864f9e6232e91bbab33
+      internalID: 1903668826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_68
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 6188
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9892161b99262438645f0986324103
+      internalID: -867071122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_69
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 6188
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed7bc9f2f238bc4f9805054e3dddd71
+      internalID: 656654224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6006
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf1f88d72c5f0e44b824baf5f1f918b
+      internalID: -1526627786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_71
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 6006
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6710efc3e0d53d94797d6b8dd3fb2ee5
+      internalID: 647787718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_72
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 6006
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e76494e1aba6e4b929f3fa2db9bc4c
+      internalID: 697793569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_73
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 6006
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ae7e605d0da7047825feb96e42c38a
+      internalID: -1643546872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_74
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 6006
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e439e342693df74bb519b72df716547
+      internalID: -1613207603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_75
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 6006
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd3f2e9b845d294f8e198d734232e78
+      internalID: 249301913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_76
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 6006
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271e524717cf3914f925273de6f33f78
+      internalID: 1489829774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5824
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fa84ffb17078645b6214f8cc8cb884
+      internalID: 1833590533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5824
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986114e4ec7154a4ea33d1614588a093
+      internalID: 344208073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 5824
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5ed946e7588114c85dcb476beb1bd5
+      internalID: -307355853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_80
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5824
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289ac91981c0fe94b9e9726b243813d1
+      internalID: -174716465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_81
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 5824
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443f4ecad1b7a9e479aa5de3b743fed4
+      internalID: 686735649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_82
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5824
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea34b04b15a2fc24b8b05149f94320b0
+      internalID: -1669162481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_83
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5824
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d22f9cf67a1b746add4c61aeff61ba
+      internalID: 634639496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5642
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64586ad9d980b4c45a2a6b7eb283953c
+      internalID: -1480406655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5642
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176e4895a2484ea4ba2c730f5a356f75
+      internalID: 1281110437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_86
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 5642
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c80d3d25f0fc040ae93dd5ab80a6a4
+      internalID: 2110024918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_87
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5642
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c49b44d7ea9e64d8e0cf6985d68cf8
+      internalID: 726176061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_88
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 5642
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f942304d09a474f8a99177911bf39f
+      internalID: -1656321117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_89
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5642
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff769bab3ee1eb0469cdc73b1f944ae5
+      internalID: -1770681345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_90
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5642
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89132c72316bfd4fa52c3e12fe792fc
+      internalID: 1037387724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5460
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32479e38f06606d4e90a951daf49fac5
+      internalID: -1641437628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_92
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5460
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ae1de899b07ef4990ff1ffc2cc7a29
+      internalID: 2130435782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_93
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 5460
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786deaf981e341240888e6ce446bcc1b
+      internalID: 1597328895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_94
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5460
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846be7306bd48cc40926cd306cf62b77
+      internalID: -1980534312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 5460
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc1c36c6bc9b3045b9237af2510c27a
+      internalID: -2029958675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_96
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5460
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826e35e9d6121674490749ca0c5390e3
+      internalID: 1377400561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_97
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5460
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695791eea98daee40aa37a8cedb61859
+      internalID: -1495592614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5278
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecfbe328c2ac64478f96dee77759cec
+      internalID: -1429213223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_99
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5278
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790296e00e46c4447a6cf3db8d2b331d
+      internalID: 284986768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_100
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 5278
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8072db11f5f8e464facf10cbea53edf3
+      internalID: 664148794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_101
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5278
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d727b4c2aeaf7b740a79eaada3184c5b
+      internalID: 1026194417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_102
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 5278
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5839df086b552d4e8b80f637659b0f6
+      internalID: -1361020821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_103
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5278
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73260d52894e0f44082bcdbe0e3894e6
+      internalID: 373197867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_104
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5278
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7369049031e2f49498d45eb26640fee1
+      internalID: 267392475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5096
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9d9d1e45445ce468d2943c5f99f330
+      internalID: 1389621800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_106
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5096
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d44abd251ea434c9e10d12be0d402d
+      internalID: -890388099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_107
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 5096
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20987685fce1684aa541b62ebc3025e
+      internalID: -805859667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_108
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5096
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ef7e279e6457e4db3577aff03f6d17
+      internalID: 882250625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_109
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 5096
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fab1d30d57a5b4697dfbc94a8b87e6
+      internalID: -1448677956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_110
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5096
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8be0f905e2119c4bb39aac2dde2ede0
+      internalID: -1463972259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_111
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5096
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef27e120063bff94c80acfd490ea3799
+      internalID: -1331787949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4914
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd1f62d32525af41b2403ee1bdcd552
+      internalID: -2142588112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_113
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4914
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fbc98e72df437479257bb44c4d80d3
+      internalID: -1742577891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_114
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4914
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8742e164931714db69deb49c87df58
+      internalID: 437492144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_115
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4914
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dab9b510fa47034a91b579e875d02d5
+      internalID: 1489676021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_116
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4914
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e101e7c3341218449a0321776357c0d
+      internalID: -808821558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_117
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4914
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bcb0cfc36227b46b4b325b248c5766
+      internalID: 1748962746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_118
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4914
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cc4ec05859e2742836bcae298470c4
+      internalID: 1551323213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4732
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f436fc832773c084aabc0e7848817a66
+      internalID: 177054511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_120
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4732
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a300a2b7ee78527478f3f7b49cdcc766
+      internalID: -1809141850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_121
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4732
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b898cf76436bb8e4c938a2c92a5e24ae
+      internalID: -640005083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_122
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4732
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ee3f9d78aabd4428d6024af50016f6
+      internalID: 1277801298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_123
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4732
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fc3d88566619149952b4f045440e43
+      internalID: -1849312973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_124
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4732
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8566302cea20aff459ccdf30356dd6ae
+      internalID: -1487475428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_125
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4732
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268835653dec5dc43a17e5fb9b1ce071
+      internalID: 397671687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4550
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ac6487e574f7547ba1f06e2f592b17
+      internalID: -7208809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_127
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4550
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c419b4ac115f68f4b812e5619941b4f6
+      internalID: 1675118691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_128
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4550
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c880a66dace2a7e40b43b1cdc4be715b
+      internalID: 1408948186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_129
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4550
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a8106cd0351c74799a4d6b010c6ef9
+      internalID: 372256287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_130
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4550
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf0cfc15387e314c8c302f012dd29a4
+      internalID: -1216926896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_131
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4550
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bc7a840d2c0a746907b96f81c91bbd
+      internalID: 246649108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_132
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4550
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c4b6a52b4296f46b8ff06ae8647fe7
+      internalID: 969326106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4368
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d341eabd7e3128448c7015f229dc907
+      internalID: -702375157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_134
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4368
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c937a9a1ce7b3774a909bcc132862500
+      internalID: 1265147377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_135
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4368
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d363469907463248928072661dfdbb9
+      internalID: 963350391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_136
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4368
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f7cd6715ce20842b792a8f154f8f51
+      internalID: 665864036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_137
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4368
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb0a28f47c31304084fbc6835c12ae8
+      internalID: 1399633228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_138
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4368
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c772f77df6008d438bc3f16d58fe4fd
+      internalID: -567052022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_139
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4368
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452edaa6a2af69e4b87f3f3c1facfc2a
+      internalID: 1288152328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4186
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684c376b8e3cb154baadae5fca83718f
+      internalID: -1832979539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_141
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4186
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619234f718187fa49841bb3313f907e4
+      internalID: -364193949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_142
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4186
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6229bb27f8282d8488c0bfe214e846a9
+      internalID: 898483552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_143
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4186
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f679de045830c74e9d50780e59a1334
+      internalID: -1097108152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_144
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4186
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83aa56c55f68ab3469e41f49a064ae32
+      internalID: 837153369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_145
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4186
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3c0855525ad9c43afab395a8c8aec9
+      internalID: -1799881042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_146
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4186
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfd90b81ac001e4e80f0da20ebfe88c
+      internalID: -2055765076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4004
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba2b7f1be8f84043a5d67c919f4581a
+      internalID: -118820810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_148
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4004
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5ef7e4a692ea84ab56cadf52f7e890
+      internalID: 1897789473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_149
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4004
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7020c9dbbc13e3b4a85e2700db7658d9
+      internalID: 1249640495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_150
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4004
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1f1d52a833985408cf480594e8b420
+      internalID: 390627990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_151
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4004
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89075eeecef6bd244a35e77c6d52bdc9
+      internalID: -440325706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_152
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4004
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef1e122b53fa1a4f9fb1d04fea3b4d3
+      internalID: 1742848122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_153
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4004
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7347ad62bd5d52d42b43abf43550cc52
+      internalID: -423951319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3822
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937f590e057148c40b5d7da5a1dbbbcc
+      internalID: 1849192983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_155
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3822
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfc2c987cf6b7f438cc7881de898be2
+      internalID: 521362777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_156
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3822
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a25501063848241b5007a89e4a88ce
+      internalID: -594569084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_157
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3822
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cc910e5d2a06b4ea66856f076c8d3b
+      internalID: 982579893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_158
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3822
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230117206892b9d449f45a160187c3e8
+      internalID: 1683114360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_159
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3822
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0c317080ed87f449b07257812034be
+      internalID: 2006398438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_160
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3822
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd78746b084c418458291c242c806371
+      internalID: 2010353480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3640
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c9723560839bc438333df26188675d
+      internalID: -599882593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_162
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3640
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c03d52a773ed7f4194e118725e37812
+      internalID: -749815823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_163
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3640
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f4b86b0b1a97341a438100a63ad14c
+      internalID: -323310125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_164
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3640
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887e855650336bc4997dbc9ec9586747
+      internalID: 348780364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_165
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3640
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920fd0f77f53b634bbd27b479803f23f
+      internalID: -114251708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_166
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3640
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f180f6aac273994abf655e0ac11e405
+      internalID: 2099684556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_167
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3640
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b47f2cc99f2364c8e1b4996dc1f842
+      internalID: -329819829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3458
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61ef9c4500bae34a947af25dbc93a24
+      internalID: -1431103600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_169
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3458
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc23df453bbc834d87793b93250d154
+      internalID: -2020260464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_170
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3458
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb592286277e99149a38090fce109341
+      internalID: 845296120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_171
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3458
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12bc20270732a748a266cde398f450f
+      internalID: 1957879688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_172
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3458
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c174e3f35e3c6ce418d192aed28d30b2
+      internalID: 1201551945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_173
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3458
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a562dbb10c947104282f7623bf894403
+      internalID: -1412471437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_174
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3458
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45921f89720be0459abd767c0541515
+      internalID: -728497245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3276
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eee87b954838c4fa48e29664f9f909
+      internalID: -1477062751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_176
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3276
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4dc07b03287204f90c0525c758050f
+      internalID: -1645823653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_177
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3276
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611ec6b47c6a5f346b63bf3b21b7e7a2
+      internalID: 94862597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_178
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3276
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d59b63595a2db04185ec69bf117e814
+      internalID: 1850504739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_179
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3276
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d242b048ce10b498f00148e4c6aef3
+      internalID: 1269059191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_180
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3276
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ba86b474191704e9c431f29cf4b153
+      internalID: -401292922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_181
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3276
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dc7f4d4eb03594cb350300004f6e73
+      internalID: 1987569836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3094
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9616c0d56b6f1674faf8fa551972e3f4
+      internalID: 1506614425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_183
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3094
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b9248cf01831a4cb413e4e186ff6bb
+      internalID: 1902685774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_184
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3094
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae3b9795931cbc42a19dae6d5529dcd
+      internalID: 233598500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_185
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3094
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d15a1264aec4a4099d7c8eb0b94764
+      internalID: 419559541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_186
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3094
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab457f3b766fb7148952145d5562418b
+      internalID: 1433228960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_187
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3094
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efa7beecd7ae5a4da46a32e8e44e62d
+      internalID: 1093800844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_188
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3094
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb32809949d5ae45841a2c811ede1ca
+      internalID: 1693627034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2912
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd648c9455fa1247aae1b83d1ef0a04
+      internalID: -1983030736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_190
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2912
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5144588fa71ef4c8d18e0c0f95dbc6
+      internalID: -964815151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2912
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba024c834461774ca1da1be554d8200
+      internalID: -1851155696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_192
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2912
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21bb5a9ab80f2043ae897497ccc7530
+      internalID: 1018651284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_193
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2912
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08452825d3a0ee14d9daba7e51923a77
+      internalID: 1586077089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_194
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2912
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dc60737229a6f46933b7c77cbf842c
+      internalID: 1846405531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_195
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2912
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d077e3e137a234aa7475c68870c919
+      internalID: 692231775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2730
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb87e8ff78771ad469d353de96675239
+      internalID: 1883435871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_197
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2730
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f95298dcc398f849bdc608568b05289
+      internalID: -245791110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_198
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2730
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b13d702a7d3632499d895c065e48bfe
+      internalID: -587593278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_199
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2730
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501a2aee7bd58834c91e53d23df17a9c
+      internalID: -793745879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_200
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2730
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc23eff60e7a8304a8cbe4d09354dc96
+      internalID: -172180244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_201
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2730
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8924d7ac8a3a541a17c2e19f7a322c
+      internalID: -1284033214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_202
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2730
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1635452554aad1243a5c208cae718e86
+      internalID: 221807301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2548
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae198efc6278c2046a26487fc1d7537f
+      internalID: 1578259766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_204
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2548
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b512610e8cb43464b898cd8bbddfcc75
+      internalID: 1831436219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_205
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2548
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8d4dff729efd540b05e29c5abbfc55
+      internalID: 1377208172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_206
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2548
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e577f26279b02c941a74628bd2d3223e
+      internalID: 590003489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_207
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2548
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d82bbf1c6afdb3468ed501e2a43a291
+      internalID: 48907850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_208
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2548
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372977b402ba87a4d99415e9a153eb4f
+      internalID: 1519800580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_209
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2548
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f8edbfe3a476e4380ea82a5c4db7aa
+      internalID: -1275316445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2366
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed42779e87ad13448016841b62d2650
+      internalID: 1102345686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_211
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2366
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fee13fb3ab2d043a30ac997c60b940
+      internalID: -782052506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_212
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2366
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca8b24204cf22744807fbad8a6cae02
+      internalID: -1391845407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_213
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2366
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae6444cee429b646a9d25947cdf912e
+      internalID: -491587935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_214
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2366
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae63e5edb9be1c74e8e9fde35e435140
+      internalID: -365102518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_215
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2366
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f082fd9b9b4d0648b4c8a3b056ee227
+      internalID: -810653675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_216
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2366
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf386b0f3f2bca40955f20ae7a5b492
+      internalID: -1973450524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2184
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee52b0c48547e544ac71d2d8b81fc75
+      internalID: -445765539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_218
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2184
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90e5698097c93345b650bcf579e1bce
+      internalID: 1252459344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_219
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2184
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebef7f96a1eb8934b88a4a60b8d267bd
+      internalID: -309893552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_220
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2184
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc57128af2c7634ab42d0eea42875ea
+      internalID: 1935414503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_221
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2184
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58628c1fae91bb24081573cd06b53201
+      internalID: 33903875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_222
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2184
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b220445fe92e24dac093693847864c
+      internalID: 1473067829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_223
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2184
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646c296637784984da1ea07b38d28590
+      internalID: 1941788647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2002
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13820cbc9b3c90242a8aa9f1a5105d0c
+      internalID: 52341124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_225
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2002
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafde9018a0bd2d44880556758b1201f
+      internalID: 926004683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_226
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2002
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bb89d3e0768584699890f1e2176b53
+      internalID: -218676294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_227
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2002
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75ff1b8d9ee02d418d137fe84b67d39
+      internalID: 550340793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_228
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2002
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d290f74c4d71b7244b38585b596bff7e
+      internalID: 1258210300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_229
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2002
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db36c8a76cd68b24d9ff9d772b5168a3
+      internalID: 1385130052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_230
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2002
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820c78b5225807d4daac4969bf9d62f4
+      internalID: -1255946696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1820
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fc09ce8b1851046968c2dda624a8bc
+      internalID: -698802865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_232
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1820
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcf72591e119874fafef451c1b54689
+      internalID: 1674058427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_233
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1820
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40cf001b5540b345a5ffe7ec8e9a039
+      internalID: -1047223440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_234
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1820
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36e996896e6a884d988ce3a99654440
+      internalID: 2097138366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_235
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1820
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4af0aab18dd124794832f6dc6d28f7
+      internalID: -2113225871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_236
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1820
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c496fc3268898bf4d86b1c4f15df3166
+      internalID: 1558686274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_237
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1820
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e42b948cd572f74198d11344423904c
+      internalID: -635758280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1638
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7911ed4141ef7db4f82938ca68c8cc75
+      internalID: -331108982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_239
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1638
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92b03081cdcbff40bec9aa120a3f989
+      internalID: 1640734375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_240
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1638
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a30b2152ffcab49b711d6d150290ff
+      internalID: 856252323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_241
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1638
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eef83a5d42c8b54e85f542bc6159889
+      internalID: -1679401235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_242
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1638
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf8a60deb3937d42b415b34c29e2322
+      internalID: -1564707699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_243
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1638
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f10d4ca867e2814bb354eb39da79ff0
+      internalID: 1993335382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_244
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1638
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfbd1ab1f035b14e8ec5528dc0e7a1d
+      internalID: 1299738327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_245
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1456
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7541ad1ee065f5b48987cc0580965a9c
+      internalID: -813350675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_246
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1456
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58eea09ab610bd8418994e3aadc63180
+      internalID: 1180325661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_247
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1456
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58e484f71753c345a01a0c57f7e341a
+      internalID: 36772015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_248
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1456
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef199290595c02499dba9150546e476
+      internalID: 380358233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_249
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1456
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9a202c0a11a444d88f8ba611fed2cd
+      internalID: -1055297926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_250
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1456
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fadee96fbc30642a53d4d367741dea
+      internalID: -758385067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_251
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1456
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb3d0dbc2f423d45ada09341d2d7ef2
+      internalID: 1505193042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1274
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7748633af8c5be9498362d1bd76e66e6
+      internalID: 1491030116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_253
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1274
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e078690a1befad4293156db50d407b9
+      internalID: -1159137738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_254
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1274
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98c0dd8757fa1545b3caa7912aea911
+      internalID: -1632452567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_255
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1274
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba6d2aaf47571e47bd68837b454f490
+      internalID: -895453478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_256
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1274
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a39481537b5d3d4294b75448e658835
+      internalID: -1731580572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_257
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1274
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11533f9d9c225a4c8397ee876a84ffa
+      internalID: 799957177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_258
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1274
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952b7db1f0c539c41bab0df9b73614b9
+      internalID: -585786516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_259
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1092
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e482ab5f373a3514a9169b455c3dd95f
+      internalID: 1401807962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_260
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1092
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35abb9031a040504bbbbec596445d40d
+      internalID: -1340244313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_261
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1092
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b28d7d2b8158f3478c1e0832b3ba111
+      internalID: 372544239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_262
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1092
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a9fd5a655a35642a3abfee93aec0e7
+      internalID: 2129694277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_263
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1092
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e44fa90e3aae6f43b3e09abfd01db1f
+      internalID: 1766538820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_264
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1092
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d44a43bb33688640a1a4288be883182
+      internalID: 1962947355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_265
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1092
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9f9a53d8f6189429ba5506290df648
+      internalID: 1748678178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_266
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 910
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcae4f1f9652e240a00f0bc8fb4cf38
+      internalID: -170820595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_267
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 910
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54eec48d9398d1449e05819cf165f2e
+      internalID: -640285050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_268
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 910
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686730001e4360748b66f0682b602b94
+      internalID: 1420860077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_269
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 910
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1b28a7a73d4f843b4db1a099d54085
+      internalID: 1440114238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_270
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 910
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e007454bd29c6d64ca28cc55b9bbdeae
+      internalID: -241396404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_271
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 910
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afd0cd8118a4ad4489c4456789348a8
+      internalID: 963486498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_272
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 910
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf9f276df755af4fa635d8b2c0a5b65
+      internalID: 635081447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_273
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4eabef63f424442b4fe2e269bcfcb5
+      internalID: 927852254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_274
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 728
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38789635f1f7f224dbf6d7aa6733a76b
+      internalID: 1928229847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_275
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 728
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be570529535a1c74aa8bede6f69fe3f8
+      internalID: -582497097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_276
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 728
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f91c109735607048a1c7f6c3d73189c
+      internalID: 532346993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_277
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 728
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdeaa63ecfbaf94da95899a9f25e041
+      internalID: 2086261636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_278
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 728
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1a88be61c6a5c4bbbc1ad1c9a8cfae
+      internalID: 490290674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_279
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 728
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96559305b125dce48beb41ed6c7336d5
+      internalID: -1714299216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_280
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22aee9634be9f944f9c9265f2e0cac42
+      internalID: 1045589111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_281
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 546
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70beffd83a50db34db6910a90b881581
+      internalID: -1526479023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_282
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 546
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e63020d0a3c1b04d801a6a76bf3648e
+      internalID: -805084638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_283
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 546
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3de8be8f686524eb90893776848acc
+      internalID: 587242564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_284
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 546
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8b476ccc36bb74489604343b85d670
+      internalID: 2134600694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_285
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 546
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2cacbffb0834a45be93852f93b571e
+      internalID: 924965440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_286
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 546
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7d5fe4e56ba8145b93fb32287d56db
+      internalID: 436849563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_287
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9d150a5d3e3ac4294e8d261c857e5f
+      internalID: -810988001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_288
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 364
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e69a1bdce825054bba76e0748b0a368
+      internalID: -1832631229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_289
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 364
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f054410b28b394ca0537a3ebf9429d
+      internalID: -1415711795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_290
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 364
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f80a51f9c9cdb448323d0ece259f17
+      internalID: 1218442276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_291
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 364
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0670a0f2390524a8fa2868e06d62d7
+      internalID: 943008041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_292
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 364
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dab504a2dd545044bbaa761fdee2326
+      internalID: 1131746324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_293
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 364
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911f10ff858ced849be98ada6ea41cc1
+      internalID: 238583590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_294
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c538657bc49f19344856a6ea0df31cbf
+      internalID: -291457980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_295
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 182
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62bfee95d306574ab339b101493bd08
+      internalID: -470978782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_296
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 182
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80aaaabd90ae5c419b1254d9f9ecbee
+      internalID: -545366458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_297
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 182
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddf511acf3147b4f83059d4502ab3a2
+      internalID: 93119027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_298
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 182
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefa45d1351b7444d85031d4acb3bb67
+      internalID: 2136143318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_299
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 182
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6209e6eca0184479b2561993444fa6
+      internalID: -543348651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_300
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 182
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d0788051f0eb646bfaab95ceca98ca
+      internalID: 161680894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_301
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fe753e0af0a394390f87574c39bcb0
+      internalID: -2071091663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_302
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba973ef0603b824f9eb0eda73e6d87f
+      internalID: -860784725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_303
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1653a42e673c0d46834e61ba109cee6
+      internalID: 1871596012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_304
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee84bbe85ee1a5541b260298f599023e
+      internalID: 1310851697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_305
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496102d92e5b8e1499597293e56cdbab
+      internalID: -1170893163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_306
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248697aadd167804aad877e7b3b962d2
+      internalID: -208215674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half-life_speedrun_307
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 240
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f22e6d311b8b7f4da60c7f0e8dc5b93
+      internalID: -1854220953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      half-life_speedrun_0: -148788477
+      half-life_speedrun_1: -1571602533
+      half-life_speedrun_10: -403732296
+      half-life_speedrun_100: 664148794
+      half-life_speedrun_101: 1026194417
+      half-life_speedrun_102: -1361020821
+      half-life_speedrun_103: 373197867
+      half-life_speedrun_104: 267392475
+      half-life_speedrun_105: 1389621800
+      half-life_speedrun_106: -890388099
+      half-life_speedrun_107: -805859667
+      half-life_speedrun_108: 882250625
+      half-life_speedrun_109: -1448677956
+      half-life_speedrun_11: 293829961
+      half-life_speedrun_110: -1463972259
+      half-life_speedrun_111: -1331787949
+      half-life_speedrun_112: -2142588112
+      half-life_speedrun_113: -1742577891
+      half-life_speedrun_114: 437492144
+      half-life_speedrun_115: 1489676021
+      half-life_speedrun_116: -808821558
+      half-life_speedrun_117: 1748962746
+      half-life_speedrun_118: 1551323213
+      half-life_speedrun_119: 177054511
+      half-life_speedrun_12: 927961195
+      half-life_speedrun_120: -1809141850
+      half-life_speedrun_121: -640005083
+      half-life_speedrun_122: 1277801298
+      half-life_speedrun_123: -1849312973
+      half-life_speedrun_124: -1487475428
+      half-life_speedrun_125: 397671687
+      half-life_speedrun_126: -7208809
+      half-life_speedrun_127: 1675118691
+      half-life_speedrun_128: 1408948186
+      half-life_speedrun_129: 372256287
+      half-life_speedrun_13: -2083493096
+      half-life_speedrun_130: -1216926896
+      half-life_speedrun_131: 246649108
+      half-life_speedrun_132: 969326106
+      half-life_speedrun_133: -702375157
+      half-life_speedrun_134: 1265147377
+      half-life_speedrun_135: 963350391
+      half-life_speedrun_136: 665864036
+      half-life_speedrun_137: 1399633228
+      half-life_speedrun_138: -567052022
+      half-life_speedrun_139: 1288152328
+      half-life_speedrun_14: 1746284158
+      half-life_speedrun_140: -1832979539
+      half-life_speedrun_141: -364193949
+      half-life_speedrun_142: 898483552
+      half-life_speedrun_143: -1097108152
+      half-life_speedrun_144: 837153369
+      half-life_speedrun_145: -1799881042
+      half-life_speedrun_146: -2055765076
+      half-life_speedrun_147: -118820810
+      half-life_speedrun_148: 1897789473
+      half-life_speedrun_149: 1249640495
+      half-life_speedrun_15: -1362094887
+      half-life_speedrun_150: 390627990
+      half-life_speedrun_151: -440325706
+      half-life_speedrun_152: 1742848122
+      half-life_speedrun_153: -423951319
+      half-life_speedrun_154: 1849192983
+      half-life_speedrun_155: 521362777
+      half-life_speedrun_156: -594569084
+      half-life_speedrun_157: 982579893
+      half-life_speedrun_158: 1683114360
+      half-life_speedrun_159: 2006398438
+      half-life_speedrun_16: -655839369
+      half-life_speedrun_160: 2010353480
+      half-life_speedrun_161: -599882593
+      half-life_speedrun_162: -749815823
+      half-life_speedrun_163: -323310125
+      half-life_speedrun_164: 348780364
+      half-life_speedrun_165: -114251708
+      half-life_speedrun_166: 2099684556
+      half-life_speedrun_167: -329819829
+      half-life_speedrun_168: -1431103600
+      half-life_speedrun_169: -2020260464
+      half-life_speedrun_17: 337254282
+      half-life_speedrun_170: 845296120
+      half-life_speedrun_171: 1957879688
+      half-life_speedrun_172: 1201551945
+      half-life_speedrun_173: -1412471437
+      half-life_speedrun_174: -728497245
+      half-life_speedrun_175: -1477062751
+      half-life_speedrun_176: -1645823653
+      half-life_speedrun_177: 94862597
+      half-life_speedrun_178: 1850504739
+      half-life_speedrun_179: 1269059191
+      half-life_speedrun_18: 1751940352
+      half-life_speedrun_180: -401292922
+      half-life_speedrun_181: 1987569836
+      half-life_speedrun_182: 1506614425
+      half-life_speedrun_183: 1902685774
+      half-life_speedrun_184: 233598500
+      half-life_speedrun_185: 419559541
+      half-life_speedrun_186: 1433228960
+      half-life_speedrun_187: 1093800844
+      half-life_speedrun_188: 1693627034
+      half-life_speedrun_189: -1983030736
+      half-life_speedrun_19: 2075127609
+      half-life_speedrun_190: -964815151
+      half-life_speedrun_191: -1851155696
+      half-life_speedrun_192: 1018651284
+      half-life_speedrun_193: 1586077089
+      half-life_speedrun_194: 1846405531
+      half-life_speedrun_195: 692231775
+      half-life_speedrun_196: 1883435871
+      half-life_speedrun_197: -245791110
+      half-life_speedrun_198: -587593278
+      half-life_speedrun_199: -793745879
+      half-life_speedrun_2: 1651128384
+      half-life_speedrun_20: -1651492541
+      half-life_speedrun_200: -172180244
+      half-life_speedrun_201: -1284033214
+      half-life_speedrun_202: 221807301
+      half-life_speedrun_203: 1578259766
+      half-life_speedrun_204: 1831436219
+      half-life_speedrun_205: 1377208172
+      half-life_speedrun_206: 590003489
+      half-life_speedrun_207: 48907850
+      half-life_speedrun_208: 1519800580
+      half-life_speedrun_209: -1275316445
+      half-life_speedrun_21: -505560135
+      half-life_speedrun_210: 1102345686
+      half-life_speedrun_211: -782052506
+      half-life_speedrun_212: -1391845407
+      half-life_speedrun_213: -491587935
+      half-life_speedrun_214: -365102518
+      half-life_speedrun_215: -810653675
+      half-life_speedrun_216: -1973450524
+      half-life_speedrun_217: -445765539
+      half-life_speedrun_218: 1252459344
+      half-life_speedrun_219: -309893552
+      half-life_speedrun_22: -1835978450
+      half-life_speedrun_220: 1935414503
+      half-life_speedrun_221: 33903875
+      half-life_speedrun_222: 1473067829
+      half-life_speedrun_223: 1941788647
+      half-life_speedrun_224: 52341124
+      half-life_speedrun_225: 926004683
+      half-life_speedrun_226: -218676294
+      half-life_speedrun_227: 550340793
+      half-life_speedrun_228: 1258210300
+      half-life_speedrun_229: 1385130052
+      half-life_speedrun_23: 93007408
+      half-life_speedrun_230: -1255946696
+      half-life_speedrun_231: -698802865
+      half-life_speedrun_232: 1674058427
+      half-life_speedrun_233: -1047223440
+      half-life_speedrun_234: 2097138366
+      half-life_speedrun_235: -2113225871
+      half-life_speedrun_236: 1558686274
+      half-life_speedrun_237: -635758280
+      half-life_speedrun_238: -331108982
+      half-life_speedrun_239: 1640734375
+      half-life_speedrun_24: 603988159
+      half-life_speedrun_240: 856252323
+      half-life_speedrun_241: -1679401235
+      half-life_speedrun_242: -1564707699
+      half-life_speedrun_243: 1993335382
+      half-life_speedrun_244: 1299738327
+      half-life_speedrun_245: -813350675
+      half-life_speedrun_246: 1180325661
+      half-life_speedrun_247: 36772015
+      half-life_speedrun_248: 380358233
+      half-life_speedrun_249: -1055297926
+      half-life_speedrun_25: 1150313175
+      half-life_speedrun_250: -758385067
+      half-life_speedrun_251: 1505193042
+      half-life_speedrun_252: 1491030116
+      half-life_speedrun_253: -1159137738
+      half-life_speedrun_254: -1632452567
+      half-life_speedrun_255: -895453478
+      half-life_speedrun_256: -1731580572
+      half-life_speedrun_257: 799957177
+      half-life_speedrun_258: -585786516
+      half-life_speedrun_259: 1401807962
+      half-life_speedrun_26: 779309962
+      half-life_speedrun_260: -1340244313
+      half-life_speedrun_261: 372544239
+      half-life_speedrun_262: 2129694277
+      half-life_speedrun_263: 1766538820
+      half-life_speedrun_264: 1962947355
+      half-life_speedrun_265: 1748678178
+      half-life_speedrun_266: -170820595
+      half-life_speedrun_267: -640285050
+      half-life_speedrun_268: 1420860077
+      half-life_speedrun_269: 1440114238
+      half-life_speedrun_27: 124524296
+      half-life_speedrun_270: -241396404
+      half-life_speedrun_271: 963486498
+      half-life_speedrun_272: 635081447
+      half-life_speedrun_273: 927852254
+      half-life_speedrun_274: 1928229847
+      half-life_speedrun_275: -582497097
+      half-life_speedrun_276: 532346993
+      half-life_speedrun_277: 2086261636
+      half-life_speedrun_278: 490290674
+      half-life_speedrun_279: -1714299216
+      half-life_speedrun_28: -426015721
+      half-life_speedrun_280: 1045589111
+      half-life_speedrun_281: -1526479023
+      half-life_speedrun_282: -805084638
+      half-life_speedrun_283: 587242564
+      half-life_speedrun_284: 2134600694
+      half-life_speedrun_285: 924965440
+      half-life_speedrun_286: 436849563
+      half-life_speedrun_287: -810988001
+      half-life_speedrun_288: -1832631229
+      half-life_speedrun_289: -1415711795
+      half-life_speedrun_29: 76446555
+      half-life_speedrun_290: 1218442276
+      half-life_speedrun_291: 943008041
+      half-life_speedrun_292: 1131746324
+      half-life_speedrun_293: 238583590
+      half-life_speedrun_294: -291457980
+      half-life_speedrun_295: -470978782
+      half-life_speedrun_296: -545366458
+      half-life_speedrun_297: 93119027
+      half-life_speedrun_298: 2136143318
+      half-life_speedrun_299: -543348651
+      half-life_speedrun_3: -1139567262
+      half-life_speedrun_30: -596560936
+      half-life_speedrun_300: 161680894
+      half-life_speedrun_301: -2071091663
+      half-life_speedrun_302: -860784725
+      half-life_speedrun_303: 1871596012
+      half-life_speedrun_304: 1310851697
+      half-life_speedrun_305: -1170893163
+      half-life_speedrun_306: -208215674
+      half-life_speedrun_307: -1854220953
+      half-life_speedrun_31: -1722470498
+      half-life_speedrun_32: 400983870
+      half-life_speedrun_33: -225372559
+      half-life_speedrun_34: 1367274565
+      half-life_speedrun_35: -404702550
+      half-life_speedrun_36: -280333387
+      half-life_speedrun_37: 158732549
+      half-life_speedrun_38: 491031685
+      half-life_speedrun_39: -1142018557
+      half-life_speedrun_4: 128637336
+      half-life_speedrun_40: 1583218465
+      half-life_speedrun_41: 936051860
+      half-life_speedrun_42: 924278446
+      half-life_speedrun_43: 148379785
+      half-life_speedrun_44: 970811495
+      half-life_speedrun_45: -906961921
+      half-life_speedrun_46: 140644674
+      half-life_speedrun_47: -1158747053
+      half-life_speedrun_48: -3071318
+      half-life_speedrun_49: -509898311
+      half-life_speedrun_5: 241332182
+      half-life_speedrun_50: -332667806
+      half-life_speedrun_51: 325659095
+      half-life_speedrun_52: -1522146549
+      half-life_speedrun_53: -1683631247
+      half-life_speedrun_54: -2031518505
+      half-life_speedrun_55: 1458073926
+      half-life_speedrun_56: 1069203602
+      half-life_speedrun_57: 1402085454
+      half-life_speedrun_58: -1200778816
+      half-life_speedrun_59: 259578123
+      half-life_speedrun_6: -2007988495
+      half-life_speedrun_60: 332591438
+      half-life_speedrun_61: -475459017
+      half-life_speedrun_62: -395168217
+      half-life_speedrun_63: 755591815
+      half-life_speedrun_64: -737836275
+      half-life_speedrun_65: -964818099
+      half-life_speedrun_66: -1655948625
+      half-life_speedrun_67: 1903668826
+      half-life_speedrun_68: -867071122
+      half-life_speedrun_69: 656654224
+      half-life_speedrun_7: -174272094
+      half-life_speedrun_70: -1526627786
+      half-life_speedrun_71: 647787718
+      half-life_speedrun_72: 697793569
+      half-life_speedrun_73: -1643546872
+      half-life_speedrun_74: -1613207603
+      half-life_speedrun_75: 249301913
+      half-life_speedrun_76: 1489829774
+      half-life_speedrun_77: 1833590533
+      half-life_speedrun_78: 344208073
+      half-life_speedrun_79: -307355853
+      half-life_speedrun_8: 1213205055
+      half-life_speedrun_80: -174716465
+      half-life_speedrun_81: 686735649
+      half-life_speedrun_82: -1669162481
+      half-life_speedrun_83: 634639496
+      half-life_speedrun_84: -1480406655
+      half-life_speedrun_85: 1281110437
+      half-life_speedrun_86: 2110024918
+      half-life_speedrun_87: 726176061
+      half-life_speedrun_88: -1656321117
+      half-life_speedrun_89: -1770681345
+      half-life_speedrun_9: -497874388
+      half-life_speedrun_90: 1037387724
+      half-life_speedrun_91: -1641437628
+      half-life_speedrun_92: 2130435782
+      half-life_speedrun_93: 1597328895
+      half-life_speedrun_94: -1980534312
+      half-life_speedrun_95: -2029958675
+      half-life_speedrun_96: 1377400561
+      half-life_speedrun_97: -1495592614
+      half-life_speedrun_98: -1429213223
+      half-life_speedrun_99: 284986768
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
